@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro&layout=compact&theme=dark&width=100)](https://github.com/jorgoose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro&layout=compact&theme=dark&width=300)](https://github.com/jorgoose/github-readme-stats)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=deadmixer)](https://open.spotify.com/user/deadmixer)
 
