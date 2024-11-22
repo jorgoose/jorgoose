@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## What I've been listening to:
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=deadmixer)](https://open.spotify.com/user/deadmixer)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro&layout=compact&theme=dark&width=300)](https://github.com/jorgoose/github-readme-stats)
 
 ## Languages:
@@ -37,8 +40,4 @@ Here are some ideas to get you started:
 
 ## Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-
-## What I've been listening to:
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=deadmixer)](https://open.spotify.com/user/deadmixer)
 
