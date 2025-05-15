@@ -34,7 +34,7 @@ if __name__ == "__main__":
     logan = SoftwareEngineer(
         name="Logan Jorgensen",
         title="Software Engineer",
-        years_experience=2,
+        years_experience=1,
         hobbies=["Weightlifting", "Cooking", "Hiking", "Side projects", "Live music"]
     )
 
@@ -43,8 +43,8 @@ if __name__ == "__main__":
 
 ```
 $ python logan_profile.py
-Logan Jorgensen (Software Engineer) — 2+ yrs experience
-👋 Hey, I'm Logan Jorgensen — a Software Engineer with 2+ years of experience.
+Logan Jorgensen (Software Engineer) — 1+ yrs experience
+👋 Hey, I'm Logan Jorgensen — a Software Engineer with 1+ years of experience.
 In my free time, I enjoy:
   • Weightlifting
   • Live music
