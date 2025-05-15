@@ -1,22 +1,10 @@
 ## Hi there 👋
 
-<table>
-  <tr>
-    <td align="center">
-      <h2>What I've been listening to</h2>
-      <a href="https://open.spotify.com/user/deadmixer">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
-      </a>
-    </td>
-    <td width="50"></td>
-    <td align="center">
-      <h2>Project Stats</h2>
-      <a href="https://github.com/jorgoose/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
-      </a>
-    </td>
-  </tr>
-</table>
+## Project Stats
+
+<a href="https://github.com/jorgoose/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
+</a>
 
 ## Things I Use
 
@@ -71,12 +59,18 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-
 ## Currently Exploring
 <p>
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
-    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-    <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
+</p>
+
+## What I've been listening to
+<p align="center">
+  <a href="https://open.spotify.com/user/deadmixer">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
+  </a>
 </p>
