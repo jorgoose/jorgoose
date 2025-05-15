@@ -47,9 +47,10 @@ Logan Jorgensen (Software Engineer) — 1+ yrs experience
 👋 Hey, I'm Logan Jorgensen — a Software Engineer with 1+ years of experience.
 In my free time, I enjoy:
   • Weightlifting
-  • Live music
+  • Cooking
   • Hiking
   • Side projects
+  • Live music
 
 Some of my go-to tech:
   → Python
