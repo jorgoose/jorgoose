@@ -71,7 +71,7 @@ Some of my go-to tech:
   <thead>
     <tr>
       <th>🧠 Languages</th>
-      <th>📦 Frameworks</th>
+      <th>📦 Frameworks and Tools</th>
       <th>🧠 ML / AI</th>
       <th>📱 Mobile</th>
       <th>🗄 Databases</th>
