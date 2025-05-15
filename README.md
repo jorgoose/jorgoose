@@ -41,7 +41,7 @@ if __name__ == "__main__":
     logan.introduce()
 
 ```
-```
+```bash
 $ python logan_profile.py
 Logan Jorgensen (Software Engineer) — 2+ yrs experience
 👋 Hey, I'm Logan Jorgensen — a Software Engineer with 2+ years of experience.
