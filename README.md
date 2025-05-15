@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/jorgoose/jorgoose?style=flat-square&labelColor=343b41"/>
-  <img alt="Forks" src="https://img.shields.io/github/forks/jorgoose/jorgoose?style=flat-square&labelColor=343b41"/>
-</p>
-
 ## What I've been listening to:
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=deadmixer)](https://open.spotify.com/user/deadmixer)
