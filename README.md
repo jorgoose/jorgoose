@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-## What I've been listening to:
-
-<a href="https://open.spotify.com/user/deadmixer">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
-</a>
-
-## Project Stats
-
-<a href="https://github.com/jorgoose/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <h2>What I've been listening to</h2>
+      <a href="https://open.spotify.com/user/deadmixer">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
+      </a>
+    </td>
+    <td width="50"></td>
+    <td align="center">
+      <h2>Project Stats</h2>
+      <a href="https://github.com/jorgoose/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Things I Use
 
