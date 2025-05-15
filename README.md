@@ -35,7 +35,7 @@ if __name__ == "__main__":
         name="Logan Jorgensen",
         title="Software Engineer",
         years_experience=2,
-        hobbies=["Weightlifting", "Live music", "Hiking", "Side projects"]
+        hobbies=["Weightlifting", "Cooking", "Hiking", "Side projects", "Live music"]
     )
 
     logan.introduce()
@@ -47,9 +47,10 @@ Logan Jorgensen (Software Engineer) — 2+ yrs experience
 👋 Hey, I'm Logan Jorgensen — a Software Engineer with 2+ years of experience.
 In my free time, I enjoy:
   • Weightlifting
-  • Live music
+  • Cooking
   • Hiking
   • Side projects
+  • Live music
 
 Some of my go-to tech:
   → Python
