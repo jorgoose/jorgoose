@@ -38,9 +38,7 @@ if __name__ == "__main__":
         hobbies=["Weightlifting", "Live music", "Hiking", "Side projects"]
     )
 
-    print(logan)
     logan.introduce()
-
 
 ```
 
