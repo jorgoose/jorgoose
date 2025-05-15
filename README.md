@@ -4,18 +4,41 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+
 class SoftwareEngineer:
+    def __init__(self, name, title, skills, hobbies, years_experience):
+        self.name = name
+        self.title = title
+        self.skills = skills
+        self.hobbies = hobbies
+        self.years_experience = years_experience
 
-    def __init__(self):
-        self.name = "Logan Jorgensen"
-        self.role = "Software Engineer"
-        self.language_spoken = ["en_US"]
-    def say_hi(self):
-        print("Thanks for checking out my profile")
+    def introduce(self):
+        print(f"👋 Hey, I'm {self.name}, a {self.title} with {self.years_experience}+ years of experience.")
+        print("Here are a few things I enjoy outside of coding:")
+        for hobby in self.hobbies:
+            print(f"  • {hobby}")
+
+    def get_primary_stack(self):
+        return [skill for skill in self.skills if skill in ["Python", "Go", "Rust", "TypeScript"]]
+
+    def __str__(self):
+        return f"{self.name} ({self.title}) — Skilled in {', '.join(self.skills)}"
 
 
-me = SoftwareEngineer()
-me.say_hi()
+if __name__ == "__main__":
+    logan = SoftwareEngineer(
+        name="Logan Jorgensen",
+        title="Software Engineer",
+        skills=["Python", "Go", "Rust", "FastAPI", "React", "PostgreSQL"],
+        hobbies=["Weightlifting", "Live music", "Hiking", "Side projects"],
+        years_experience=2
+    )
+
+    print(logan)
+    logan.introduce()
+    print("\nTech I currently focus on:", ", ".join(logan.get_primary_stack()))
+
 ```
 
 ## Project Stats
