@@ -3,11 +3,11 @@
 ## What I've been listening to:
 
 <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://open.spotify.com/user/deadmixer">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
+  </a>
   <a href="https://github.com/jorgoose/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
-  </a>
-  <a href="https://open.spotify.com/user/deadmixer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
   </a>
 </div>
 
