@@ -5,39 +5,42 @@
 # -*- coding: utf-8 -*-
 
 
+# 👇 Full skillset down below in the README, or on my personal website
+from logan_profile import full_skillset
+
+
 class SoftwareEngineer:
-    def __init__(self, name, title, skills, hobbies, years_experience):
+    def __init__(self, name, title, years_experience, hobbies):
         self.name = name
         self.title = title
-        self.skills = skills
-        self.hobbies = hobbies
         self.years_experience = years_experience
+        self.hobbies = hobbies
+        self.skills = full_skillset.preview(top_n=5)
 
     def introduce(self):
-        print(f"👋 Hey, I'm {self.name}, a {self.title} with {self.years_experience}+ years of experience.")
-        print("Here are a few things I enjoy outside of coding:")
+        print(f"👋 Hey, I'm {self.name} — a {self.title} with {self.years_experience}+ years of experience.")
+        print("In my free time, I enjoy:")
         for hobby in self.hobbies:
             print(f"  • {hobby}")
-
-    def get_primary_stack(self):
-        return [skill for skill in self.skills if skill in ["Python", "Go", "Rust", "TypeScript"]]
+        print("\nSome of my go-to tech:")
+        for skill in self.skills:
+            print(f"  → {skill}")
 
     def __str__(self):
-        return f"{self.name} ({self.title}) — Skilled in {', '.join(self.skills)}"
+        return f"{self.name} ({self.title}) — {self.years_experience}+ yrs experience"
 
 
 if __name__ == "__main__":
     logan = SoftwareEngineer(
         name="Logan Jorgensen",
         title="Software Engineer",
-        skills=["Python", "Go", "Rust", "FastAPI", "React", "PostgreSQL"],
-        hobbies=["Weightlifting", "Live music", "Hiking", "Side projects"],
-        years_experience=2
+        years_experience=2,
+        hobbies=["Weightlifting", "Live music", "Hiking", "Side projects"]
     )
 
     print(logan)
     logan.introduce()
-    print("\nTech I currently focus on:", ", ".join(logan.get_primary_stack()))
+
 
 ```
 
