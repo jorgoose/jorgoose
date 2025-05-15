@@ -54,9 +54,8 @@ In my free time, I enjoy:
 Some of my go-to tech:
   → Python
   → Go
-  → Rust
   → FastAPI
-  → React
+  → Svelte
 ```
 
 ## Project Stats
