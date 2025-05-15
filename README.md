@@ -1,13 +1,6 @@
 ## Hi there 👋
 
-<table>
-  <tr>
-    <td>
-
-<!-- CODE BLOCK: Python class -->
-  
-<pre>
-<code>
+```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
@@ -46,17 +39,9 @@ if __name__ == "__main__":
     )
 
     logan.introduce()
-</code>
-</pre>
 
-    </td>
-    <td width="40"></td>
-    <td>
-
-<!-- CODE BLOCK: Terminal output -->
-
-<pre>
-<code>
+```
+```
 $ python logan_profile.py
 Logan Jorgensen (Software Engineer) — 2+ yrs experience
 👋 Hey, I'm Logan Jorgensen — a Software Engineer with 2+ years of experience.
@@ -72,13 +57,7 @@ Some of my go-to tech:
   → Rust
   → FastAPI
   → React
-</code>
-</pre>
-
-    </td>
-  </tr>
-</table>
-
+```
 
 ## Project Stats
 
