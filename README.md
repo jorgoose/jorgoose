@@ -6,6 +6,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
 </a>
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Logan Jorgensen"
+        self.role = "Software Engineer"
+        self.language_spoken = ["en_US"]
+    def say_hi(self):
+        print("Thanks for checking out my profile")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
 ## Things I Use
 
 ### 🧠 Languages
