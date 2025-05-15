@@ -137,7 +137,7 @@ Some of my go-to tech:
 
 
 
-## Currently Exploring
+## 🔎 Currently Exploring
 <p>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" />
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
