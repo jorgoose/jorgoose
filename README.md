@@ -63,7 +63,7 @@ Some of my go-to tech:
 ## Project Stats
 
 <a href="https://github.com/jorgoose/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,svelte,html,css,cmake&layout=compact&theme=dark&width=300" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,html,css,cmake,swift&layout=compact&theme=dark&width=300" alt="Top Langs"/>
 </a>
 
 <h2>🧰 Things I've Used</h2>
