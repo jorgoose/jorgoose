@@ -147,10 +147,3 @@ Some of my go-to tech:
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
 </p>
-
-## What I've been listening to
-<p align="center">
-  <a href="https://open.spotify.com/user/deadmixer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=deadmixer" alt="Spotify recently played"/>
-  </a>
-</p>
