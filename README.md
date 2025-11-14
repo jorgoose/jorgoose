@@ -147,11 +147,3 @@ Some of my go-to tech:
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
 </p>
-
-
-<a href="https://jorgoose.pythonanywhere.com/link">
-  <img
-    src="https://jorgoose.pythonanywhere.com.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
