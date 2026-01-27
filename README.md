@@ -66,7 +66,7 @@ Some of my go-to tech:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgoose&langs_count=10&hide=jupyter%20notebook,blade,astro,html,css,cmake,swift&layout=compact&theme=dark&width=300" alt="Top Langs"/>
 </a>
 
-<h2>🧰 Things I've Used</h2>
+<h2>🧰 Stuff I've Used</h2>
 
 <table>
   <thead>
