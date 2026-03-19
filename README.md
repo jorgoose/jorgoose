@@ -1,63 +1,17 @@
 ## Hi there 👋
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+class LoganJorgensen(SoftwareEngineer):
+    building = ["EveryNetNet", "huragok", "too many side projects"]
+    interests = ["weightlifting", "cooking", "hiking", "live music"]
 
-
-# 👇 Full skillset down below in the README, or on my personal website
-from logan_profile import full_skillset
-
-
-class SoftwareEngineer:
-    def __init__(self, name, title, years_experience, hobbies):
-        self.name = name
-        self.title = title
-        self.years_experience = years_experience
-        self.hobbies = hobbies
-        self.skills = full_skillset.preview(top_n=5)
-
-    def introduce(self):
-        print(f"👋 Hey, I'm {self.name} — a {self.title} with {self.years_experience}+ years of experience.")
-        print("In my free time, I enjoy:")
-        for hobby in self.hobbies:
-            print(f"  • {hobby}")
-        print("\nSome of my go-to tech:")
-        for skill in self.skills:
-            print(f"  → {skill}")
-
-    def __str__(self):
-        return f"{self.name} ({self.title}) — {self.years_experience}+ yrs experience"
-
-
-if __name__ == "__main__":
-    logan = SoftwareEngineer(
-        name="Logan Jorgensen",
-        title="Software Engineer",
-        years_experience=1,
-        hobbies=["Weightlifting", "Cooking", "Hiking", "Side projects", "Live music"]
-    )
-
-    logan.introduce()
+    def __init__(self):
+        print("👋")
 ```
 
 ```
-$ python logan_profile.py
-Logan Jorgensen (Software Engineer) — 1+ yrs experience
-👋 Hey, I'm Logan Jorgensen — a Software Engineer with 1+ years of experience.
-In my free time, I enjoy:
-  • Weightlifting
-  • Cooking
-  • Hiking
-  • Side projects
-  • Live music
-
-Some of my go-to tech:
-  → Python
-  → Go
-  → FastAPI
-  → React
-  → GCP
+ logan.py
+👋
 ```
 
 <h2>🧰 Stuff I've Used</h2>
