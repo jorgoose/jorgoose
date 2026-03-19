@@ -10,7 +10,7 @@ class LoganJorgensen(SoftwareEngineer):
 ```
 
 ```
- logan.py
+$ python logan.py
 👋
 ```
 
