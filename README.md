@@ -148,7 +148,7 @@ Some of my go-to tech:
 - 🃏 **[marketmon](https://github.com/jorgoose/marketmon)** - Pokemon-style trading cards from S&P 500 companies, with AI-generated art and real financial stats *(Anthropic's Build With Claude Challenge winner)*
 - 🏊 **SwimSmart** - Live Chicago beach conditions from real sensor data, replacing the city's broken manual system *(1st place — MCP Hackathon)*
 - 📊 **[tech-job-market-index](https://github.com/jorgoose/tech-job-market-index)** - Are we cooked? Tracking the tech job market
-- 🇪🇸 **[html-es](https://github.com/jorgoose/html-es)** / **[eshtml](https://github.com/jorgoose/eshtml)** - Transpiler and editor that lets Spanish speakers write HTML in their native language
+- 🇪🇸 **[html-es](https://github.com/jorgoose/html-es)** / **[eshtml](https://github.com/jorgoose/eshtml)** - Transpiler and editor that lets Spanish speakers learn and write HTML in their native language
 - 🛒 **[costco-cli](https://github.com/jorgoose/costco-cli)** - Order from Costco, all from your CLI
 - 🌱 **[seedscout](https://github.com/jorgoose/seedscout)** - SeedScout
 - 🐸 **[frogstagram](https://github.com/jorgoose/frogstagram)** - Frog-centric social media app — AI detection ensures only frog photos allowed
