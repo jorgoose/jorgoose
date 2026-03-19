@@ -147,3 +147,20 @@ Some of my go-to tech:
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
 </p>
+
+## Projects
+
+- 🔧 **[huragok](https://github.com/jorgoose/huragok)** - CLI that gives AI agents the power to generate 3D models from text or images
+- 🃏 **[marketmon](https://github.com/jorgoose/marketmon)** - Pokemon-style trading cards from S&P 500 companies, with AI-generated art and real financial stats *(Build With Claude Challenge winner)*
+- 🏊 **SwimSmart** - Live Chicago beach conditions from real sensor data, replacing the city's broken manual system *(1st place — MCP Hackathon)*
+- 📊 **[tech-job-market-index](https://github.com/jorgoose/tech-job-market-index)** - Are we cooked? Tracking the tech job market
+- 🇪🇸 **[html-es](https://github.com/jorgoose/html-es)** / **[eshtml](https://github.com/jorgoose/eshtml)** - Transpiler and editor that lets Spanish speakers write HTML in their native language
+- 🛒 **[costco-cli](https://github.com/jorgoose/costco-cli)** - Order from Costco, all from your CLI
+- 🌱 **[seedscout](https://github.com/jorgoose/seedscout)** - SeedScout
+- 🐸 **[frogstagram](https://github.com/jorgoose/frogstagram)** - Frog-centric social media app — AI detection ensures only frog photos allowed
+- ⚔️ **[halo-portfolio](https://github.com/jorgoose/halo-portfolio)** - Master Chief, mind telling me what you're doing on that website?
+- 🎓 **[mit-ocw-youtube](https://github.com/jorgoose/mit-ocw-youtube)** - Analyzing MIT OpenCourseWare YouTube data to make the case for why perseverance matters
+- 📈 **[complexity-stock-backtesting](https://github.com/jorgoose/complexity-stock-backtesting)** - Testing stock performance vs. 10-K report complexity
+- 🏰 **[dungeon_ai](https://github.com/jorgoose/dungeon_ai)** - AI-generated dungeon-style story game *(2nd place — Iowa State Hackathon)*
+- 🛡️ **[insuriquest](https://github.com/jorgoose/insuriquest)** - Making insurance education fun through dynamic story experiences *(Best Insurance Hack — HackUIowa)*
+- 🔢 **[legv8-decoder](https://github.com/jorgoose/legv8-decoder)** - Decode binary into LEGv8 Assembly
