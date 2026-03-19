@@ -144,8 +144,8 @@ Some of my go-to tech:
 
 ## Projects
 
-- 🔧 **[huragok](https://github.com/jorgoose/huragok)** - CLI that gives AI agents the power to generate 3D models from text or images
-- 🃏 **[marketmon](https://github.com/jorgoose/marketmon)** - Pokemon-style trading cards from S&P 500 companies, with AI-generated art and real financial stats *(Build With Claude Challenge winner)*
+- 🔧 **[huragok](https://github.com/jorgoose/huragok)** - Give any AI agent tools to create 3D assets from text or images
+- 🃏 **[marketmon](https://github.com/jorgoose/marketmon)** - Pokemon-style trading cards from S&P 500 companies, with AI-generated art and real financial stats *(Anthropic's Build With Claude Challenge winner)*
 - 🏊 **SwimSmart** - Live Chicago beach conditions from real sensor data, replacing the city's broken manual system *(1st place — MCP Hackathon)*
 - 📊 **[tech-job-market-index](https://github.com/jorgoose/tech-job-market-index)** - Are we cooked? Tracking the tech job market
 - 🇪🇸 **[html-es](https://github.com/jorgoose/html-es)** / **[eshtml](https://github.com/jorgoose/eshtml)** - Transpiler and editor that lets Spanish speakers write HTML in their native language
