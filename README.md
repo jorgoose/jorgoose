@@ -144,6 +144,7 @@ Some of my go-to tech:
 
 ## Projects
 
+- 🔍 **[EveryNetNet](https://everynetnet.com/)** - Software platform for finding net-net stocks — 900+ users with real MRR and profitability
 - 🔧 **[huragok](https://github.com/jorgoose/huragok)** - Give any AI agent tools to create 3D assets from text or images
 - 🃏 **[marketmon](https://github.com/jorgoose/marketmon)** - Pokemon-style trading cards from S&P 500 companies, with AI-generated art and real financial stats *(Anthropic's Build With Claude Challenge winner)*
 - 🏊 **SwimSmart** - Live Chicago beach conditions from real sensor data, replacing the city's broken manual system *(1st place — MCP Hackathon)*
