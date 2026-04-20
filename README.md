@@ -106,7 +106,7 @@ $ python logan.py
 - 🇪🇸 **[html-es](https://github.com/jorgoose/html-es)** / **[eshtml](https://github.com/jorgoose/eshtml)** - Transpiler and editor that lets Spanish speakers learn and write HTML in their native language
 - 🛒 **[costco-cli](https://github.com/jorgoose/costco-cli)** - Order from Costco, all from your CLI
 - 🌱 **[seedscout](https://github.com/jorgoose/seedscout)** - SeedScout
-- 🐸 **[frogstagram](https://github.com/jorgoose/frogstagram)** - Frog-centric social media app — AI detection ensures only frog photos allowed
+- 🐸 **[frogstagram](https://github.com/jorgoose/frogstagram-live)** - Frog-centric social media app — AI detection ensures only frog photos allowed
 - ⚔️ **[halo-portfolio](https://github.com/jorgoose/halo-portfolio)** - Master Chief, mind telling me what you're doing on that website?
 - 🎓 **[mit-ocw-youtube](https://github.com/jorgoose/mit-ocw-youtube)** - Analyzing MIT OpenCourseWare YouTube data to make the case for why perseverance matters
 - 📈 **[complexity-stock-backtesting](https://github.com/jorgoose/complexity-stock-backtesting)** - Testing stock performance vs. 10-K report complexity
