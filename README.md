@@ -96,6 +96,10 @@ $ python logan.py
   <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
 </p>
 
+## 🌐 Open Source
+
+- Contributor to **[oh-my-pi](https://github.com/can1357/oh-my-pi)**
+
 ## Projects
 
 - 🔍 **[EveryNetNet](https://loganjorgensen.com/projects/everynetnet)** - Software platform for finding net-net stocks — 900+ users with real MRR and profitability
