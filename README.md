@@ -100,7 +100,7 @@ $ python logan.py
 
 - Contributor to **[oh-my-pi](https://github.com/can1357/oh-my-pi)**
 
-## 🧬 Science & Health
+### 🧬 Science & Health
 
 My mom and brother both have Crohn's. I want to use AI, programming, and tech to push genetics research and future treatment of Crohn's and other immune disorders, and make life better for people living with them.
 
