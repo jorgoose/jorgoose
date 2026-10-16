@@ -102,7 +102,7 @@ $ python logan.py
 
 ### 🧬 Science & Health
 
-My mom and brother both have Crohn's. I want to use AI, programming, and tech to push genetics research and future treatment of Crohn's and other immune disorders, and make life better for people living with them.
+My mom and brother both have Crohn's disease, a chronic inflammatory bowel disease. I want to use AI, programming, and tech to push genetics research and future treatment of Crohn's and other immune disorders, and make life better for people living with them.
 
 Projects I've contributed to:
 
