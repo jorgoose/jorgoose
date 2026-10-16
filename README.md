@@ -100,6 +100,15 @@ $ python logan.py
 
 - Contributor to **[oh-my-pi](https://github.com/can1357/oh-my-pi)**
 
+## 🧬 Science & Health
+
+My mom and brother both have Crohn's. I want to use AI, programming, and tech to push genetics research and future treatment of Crohn's and other immune disorders, and make life better for people living with them.
+
+Projects I've contributed to:
+
+- 🧬 **[vep-rs](https://github.com/natera-open-source/vep-rs)** - Rust rewrite of Ensembl's Variant Effect Predictor
+- 📊 **[coloc](https://github.com/chr1swallace/coloc)** - R package for genetic colocalization
+
 ## Projects
 
 - 🔍 **[EveryNetNet](https://loganjorgensen.com/projects/everynetnet)** - Software platform for finding net-net stocks — 900+ users with real MRR and profitability
