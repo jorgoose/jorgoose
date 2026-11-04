@@ -102,10 +102,6 @@ $ python logan.py
 
 ### 🧬 Science & Health
 
-My mom and brother both have Crohn's disease, a chronic inflammatory bowel disease that often takes expensive biologics to treat effectively. I want to use AI, programming, and tech to push genetics research on Crohn's and other immune disorders, with the hope of making treatment faster, more effective, and cheaper.
-
-Projects I've contributed to:
-
 - 🧬 **[vep-rs](https://github.com/natera-open-source/vep-rs)** - Rust rewrite of Ensembl's Variant Effect Predictor
 - 📊 **[coloc](https://github.com/chr1swallace/coloc)** - R package for genetic colocalization
 
