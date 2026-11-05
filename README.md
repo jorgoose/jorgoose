@@ -96,7 +96,7 @@ $ python logan.py
   <img alt="NLP" src="https://img.shields.io/badge/NLP-%2370268E.svg?style=flat-square&logo=ai&logoColor=white" />
 </p>
 
-## 🌐 Open Source
+## 🌐 Open Source Contributions
 
 - Contributor to **[oh-my-pi](https://github.com/can1357/oh-my-pi)**
 
@@ -104,6 +104,7 @@ $ python logan.py
 
 - 🧬 **[vep-rs](https://github.com/natera-open-source/vep-rs)** - Rust rewrite of Ensembl's Variant Effect Predictor
 - 📊 **[coloc](https://github.com/chr1swallace/coloc)** - R package for genetic colocalization
+- Contributor to **[Scanpy](https://github.com/scverse/scanpy)** - Single-cell analysis in Python
 
 ## Projects
 
